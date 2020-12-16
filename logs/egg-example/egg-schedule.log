@@ -1,0 +1,141 @@
+2020-12-08 15:13:23,478 INFO 21732 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:13:23,478 INFO 21732 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:13:23,478 INFO 21732 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:13:24,397 INFO 12200 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 47795609ms at 2020-12-09 04:30:00.006
+2020-12-08 15:13:24,398 INFO 12200 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31595602ms at 2020-12-09 00:00:00.000
+2020-12-08 15:13:24,398 INFO 12200 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31596602ms at 2020-12-09 00:00:01.000
+2020-12-08 15:19:30,505 INFO 20400 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:19:30,505 INFO 20400 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:19:30,505 INFO 20400 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:20:49,470 INFO 33436 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:20:49,470 INFO 33436 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:20:49,470 INFO 33436 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:21:05,336 INFO 36204 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:21:05,336 INFO 36204 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:21:05,336 INFO 36204 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:28:41,424 INFO 4024 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:28:41,424 INFO 4024 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:28:41,424 INFO 4024 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:30:35,895 INFO 24176 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:30:35,895 INFO 24176 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:30:35,895 INFO 24176 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:54:17,727 INFO 15580 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:54:17,727 INFO 15580 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:54:17,727 INFO 15580 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:55:12,732 INFO 45144 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:55:12,732 INFO 45144 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:55:12,732 INFO 45144 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:56:41,589 INFO 30032 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:56:41,589 INFO 30032 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:56:41,589 INFO 30032 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 15:59:55,991 INFO 18176 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 15:59:55,991 INFO 18176 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 15:59:55,991 INFO 18176 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:00:22,817 INFO 32632 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:00:22,817 INFO 32632 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:00:22,817 INFO 32632 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:00:37,198 INFO 49760 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:00:37,198 INFO 49760 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:00:37,198 INFO 49760 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:02:37,928 INFO 25032 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:02:37,928 INFO 25032 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:02:37,928 INFO 25032 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:03:23,989 INFO 12508 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:03:23,989 INFO 12508 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:03:23,989 INFO 12508 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:10:37,072 INFO 9484 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:10:37,072 INFO 9484 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:10:37,072 INFO 9484 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:11:29,670 INFO 49872 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:11:29,670 INFO 49872 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:11:29,670 INFO 49872 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:17:45,382 INFO 16880 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:17:45,382 INFO 16880 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:17:45,382 INFO 16880 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:17:59,058 INFO 25900 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:17:59,058 INFO 25900 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:17:59,058 INFO 25900 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 16:23:14,679 INFO 28800 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 16:23:14,679 INFO 28800 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 16:23:14,679 INFO 28800 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 17:40:01,428 INFO 27852 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 17:40:01,428 INFO 27852 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 17:40:01,428 INFO 27852 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 17:40:08,509 INFO 22332 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38991551ms at 2020-12-09 04:30:00.060
+2020-12-08 17:40:08,510 INFO 22332 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22791490ms at 2020-12-09 00:00:00.000
+2020-12-08 17:40:08,511 INFO 22332 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22792489ms at 2020-12-09 00:00:01.000
+2020-12-08 17:47:12,933 INFO 24884 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 17:47:12,933 INFO 24884 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 17:47:12,933 INFO 24884 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 17:47:47,695 INFO 49740 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 17:47:47,695 INFO 49740 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 17:47:47,695 INFO 49740 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 17:48:01,238 INFO 18840 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 17:48:01,239 INFO 18840 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 17:48:01,239 INFO 18840 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 17:48:16,637 INFO 34324 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 17:48:16,637 INFO 34324 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 17:48:16,637 INFO 34324 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-08 17:49:05,752 INFO 3348 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-08 17:49:05,752 INFO 3348 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-08 17:49:05,752 INFO 3348 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 10:42:52,507 INFO 18288 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 10:42:52,507 INFO 18288 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 10:42:52,507 INFO 18288 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 10:42:57,868 INFO 5984 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64022150ms at 2020-12-11 04:30:00.018
+2020-12-10 10:42:57,869 INFO 5984 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 47822132ms at 2020-12-11 00:00:00.001
+2020-12-10 10:42:57,870 INFO 5984 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 47823131ms at 2020-12-11 00:00:01.001
+2020-12-10 10:46:38,009 INFO 43420 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 10:46:38,009 INFO 43420 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 10:46:38,009 INFO 43420 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 10:47:37,248 INFO 11568 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 10:47:37,248 INFO 11568 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 10:47:37,248 INFO 11568 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 10:51:24,353 INFO 9268 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 10:51:24,353 INFO 9268 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 10:51:24,353 INFO 9268 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 10:51:34,703 INFO 20676 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 10:51:34,704 INFO 20676 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 10:51:34,704 INFO 20676 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 10:53:47,499 INFO 11148 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 10:53:47,499 INFO 11148 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 10:53:47,499 INFO 11148 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 11:03:42,036 INFO 21692 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 11:03:42,036 INFO 21692 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 11:03:42,036 INFO 21692 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 11:03:45,251 INFO 35428 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 11:03:45,251 INFO 35428 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 11:03:45,251 INFO 35428 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 11:04:57,246 INFO 15584 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 11:04:57,246 INFO 15584 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 11:04:57,246 INFO 15584 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 11:14:54,595 INFO 46528 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 11:14:54,595 INFO 46528 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 11:14:54,595 INFO 46528 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 11:17:06,617 INFO 17644 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 11:17:06,617 INFO 17644 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 11:17:06,617 INFO 17644 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 11:25:31,856 INFO 556 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 11:25:31,856 INFO 556 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 11:25:31,856 INFO 556 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 14:09:12,760 INFO 16428 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 14:09:12,760 INFO 16428 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 14:09:12,760 INFO 16428 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 17:01:26,939 INFO 39108 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 17:01:26,939 INFO 39108 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 17:01:26,939 INFO 39108 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 17:01:31,647 INFO 26364 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41308399ms at 2020-12-11 04:30:00.046
+2020-12-10 17:01:31,648 INFO 26364 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 25108353ms at 2020-12-11 00:00:00.001
+2020-12-10 17:01:31,649 INFO 26364 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 25109352ms at 2020-12-11 00:00:01.001
+2020-12-10 17:04:11,042 INFO 20392 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 17:04:11,042 INFO 20392 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 17:04:11,042 INFO 20392 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 17:07:31,472 INFO 23248 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 17:07:31,472 INFO 23248 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 17:07:31,472 INFO 23248 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 17:33:23,830 INFO 1632 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-12-10 17:33:23,830 INFO 1632 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-12-10 17:33:23,830 INFO 1632 [egg-schedule]: register schedule C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-12-10 17:33:24,411 INFO 33628 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 39395596ms at 2020-12-11 04:30:00.007
+2020-12-10 17:33:24,411 INFO 33628 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 23195589ms at 2020-12-11 00:00:00.000
+2020-12-10 17:33:24,412 INFO 33628 [Timer] C:\Users\baxin\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 23196588ms at 2020-12-11 00:00:01.000

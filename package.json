@@ -1,0 +1,23 @@
+{
+  "name": "egg-example",
+  "version": "1.0.0",
+  "description": "first egg project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baxin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "egg": "^2.29.1",
+    "egg-mysql": "^3.0.0",
+    "egg-view-nunjucks": "^2.2.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0"
+  }
+}

@@ -1,0 +1,276 @@
+2020-12-08 15:57:06,860 ERROR 30032 [-/::1/-/5200ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\baxin\Desktop\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5025,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 30032
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 16:03:29,986 ERROR 12508 [-/::1/-/5169ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\baxin\Desktop\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5023,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 12508
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 16:12:00,164 ERROR 49872 [-/::1/-/5202ms GET /news?page=1] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\baxin\Desktop\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5026,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 49872
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 16:12:15,455 ERROR 49872 [-/::1/-/5172ms GET /news?page=1] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\baxin\Desktop\egg-example\node_modules\urllib\lib\urllib.js:946:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5003,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 49872
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:43:40,495 WARN 27852 [-/::1/-/152ms POST /news/addItem] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-08 17:43:40,525 WARN 27852 [-/::1/-/181ms POST /news/addItem] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\Users\baxin\Desktop\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\Users\baxin\Desktop\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 27852
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:47:17,608 ERROR 24884 [-/::1/-/11ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+
+pid: 24884
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:47:22,591 ERROR 24884 [-/::1/-/15ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+
+pid: 24884
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:47:46,416 ERROR 24884 [-/::1/-/12ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+
+pid: 24884
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:47:48,980 ERROR 49740 [-/::1/-/12ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+
+pid: 49740
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:48:00,089 ERROR 49740 [-/::1/-/9ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+
+pid: 49740
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:48:21,045 ERROR 34324 [-/::1/-/15ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (C:\Users\baxin\Desktop\egg-example\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+
+pid: 34324
+hostname: DESKTOP-MCHAUN7
+
+2020-12-08 17:49:27,931 WARN 3348 [-/::1/-/28ms POST /news/addItem] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-08 17:49:27,935 WARN 3348 [-/::1/-/31ms POST /news/addItem] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\Users\baxin\Desktop\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\Users\baxin\Desktop\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 3348
+hostname: DESKTOP-MCHAUN7
+
+2020-12-10 10:57:15,228 WARN 11148 [-/::1/-/163ms POST /news/addItem] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-10 10:57:15,248 WARN 11148 [-/::1/-/183ms POST /news/addItem] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\Users\baxin\Desktop\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\Users\baxin\Desktop\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 11148
+hostname: DESKTOP-MCHAUN7
+
+2020-12-10 10:58:44,946 WARN 11148 [-/::1/-/1ms POST /news/addItem] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-10 10:58:44,947 WARN 11148 [-/::1/-/2ms POST /news/addItem] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\Users\baxin\Desktop\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\Users\baxin\Desktop\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 11148
+hostname: DESKTOP-MCHAUN7
+
+2020-12-10 11:03:59,937 WARN 35428 [-/::1/-/1ms POST /[object%20Object]] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2020-12-10 11:03:59,943 WARN 35428 [-/::1/-/6ms POST /[object%20Object]] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\Users\baxin\Desktop\egg-example\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\Users\baxin\Desktop\egg-example\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\baxin\Desktop\egg-example\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\Users\baxin\Desktop\egg-example\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\Users\baxin\Desktop\egg-example\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 35428
+hostname: DESKTOP-MCHAUN7
+
+2020-12-10 17:03:34,241 ERROR 39108 [-/::1/-/418ms GET /news] nodejs.Template render error: (C:\Users\baxin\Desktop\egg-example\app\view\news\list.tpl) [Line 16, Column 20]
+  TypeError: moment.format is not a function
+  TypeError: moment.format is not a function
+    at Object._prettifyError (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\lib.js:332:3)
+name: "Template render error"
+pid: 39108
+hostname: DESKTOP-MCHAUN7
+
+2020-12-10 17:04:10,171 ERROR 39108 [-/::1/-/51ms GET /news] nodejs.Template render error: (C:\Users\baxin\Desktop\egg-example\app\view\news\list.tpl) [Line 16, Column 20]
+  TypeError: moment.format is not a function
+  TypeError: moment.format is not a function
+    at Object._prettifyError (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\lib.js:36:11)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:561:19
+    at Template.root [as rootRenderFunc] (eval at _compile (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:631:18), <anonymous>:43:3)
+    at Template.render (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:550:10)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:364:27
+    at createTemplate (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:313:9)
+    at handle (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:325:11)
+    at C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\environment.js:337:9
+    at next (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\baxin\Desktop\egg-example\node_modules\nunjucks\src\lib.js:332:3)
+name: "Template render error"
+pid: 39108
+hostname: DESKTOP-MCHAUN7
+
