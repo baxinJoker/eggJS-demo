@@ -10,7 +10,7 @@
   "author": "baxin",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "egg": "^2.29.1",
     "egg-mysql": "^3.0.0",
     "egg-view-nunjucks": "^2.2.0",
