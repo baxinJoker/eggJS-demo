@@ -15,7 +15,7 @@
     "egg-mysql": "^3.0.0",
     "egg-view-nunjucks": "^2.2.0",
     "lodash": "^4.17.20",
-    "moment": "^2.29.1"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "egg-bin": "^4.15.0"
